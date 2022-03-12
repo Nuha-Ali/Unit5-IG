@@ -27,9 +27,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough_unit5.gif' title='Photo taken' width='' alt='Poo & caption' /> <p>  
+<img src='walkthrough_unit5#1.gif' title='Persisted user' width='' alt='Persisted user' /> <p>
 
-<img src='walkthrough_unit5#1.gif' title='Persisted user' width='' alt='Persisted user' />                                                                     
+<img src='walkthrough_unit5.gif' title='Photo taken' width='' alt='Photo & caption' /> <p>  
                                                                         
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
