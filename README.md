@@ -1,8 +1,8 @@
-# Project 3 - *Name of App Here*
+# Unit 5 - *Instegram*
 
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Instegram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **X** hours spent in total
+Time spent: **74** hours spent in total
 
 ## User Stories
 
